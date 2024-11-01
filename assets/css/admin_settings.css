@@ -1,0 +1,123 @@
+.ps-container {
+    margin: 20px 0;
+}
+
+.ps-logo-header {
+    margin-bottom: 50px;
+}
+
+.ps-logo-header img {
+    display: block;
+}
+
+.ps-btn-save {
+    width: 60%;
+    margin: 0 auto;
+}
+
+.ps-container .form-group .alert-danger {
+    padding: 10px 13px;
+    margin: 10px 0;
+}
+
+.ps-container .form-group select {
+    height: 40px;
+}
+
+.container.ps-container {
+    width: 100%;
+}
+
+.ps-container .buttons {
+    display: grid;
+    clear: both;
+    overflow: auto;
+    text-align: center;
+    justify-items: center;
+    margin-bottom: 10px;
+}
+
+.feed-link p {
+    font-weight: 700;
+}
+
+.feed-link {
+    margin-bottom: 20px;
+}
+
+.feed-link span.green-text {
+    cursor: pointer;
+}
+
+.btn-ps {
+    height: 45px;
+    background: #347ab6;
+    border-radius: 5px;
+}
+
+.grey-link {
+    color: #cbcbcb;
+    text-decoration: underline;
+    font-weight: 500;
+    font-size: 14px;
+    margin-top: 10px;
+}
+
+.feed-link {
+    margin-top: 25px;
+    display: inline-block;
+}
+
+.feed-link  {
+    font-size: 16px;
+}
+
+.feed-link .green-text {
+    color: #68c658;
+    text-decoration: underline;
+}
+
+.link-copied {
+    background: #efefef;
+    display: table;
+    padding: 10px;
+    border-radius: 5px;
+    float: right;
+    display: none;
+}
+
+.link-copied i {
+    color: #68c658;
+    margin-right: 7px;
+}
+
+.clear-class {
+    display: block;
+    clear: both;
+    overflow: auto;
+}
+
+.feed-link > span {
+    font-size: 19px;
+    font-weight: 500;
+}
+
+.link-copied span {
+    font-size: 15px;
+}
+
+.exchange-details {
+    background: #feffce;
+    border-radius: 5px;
+    border: 1px solid #dbfb5c;
+    padding: 15px 15px 5px 15px;
+    color: #bcd018;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.exchange-details a {
+    color: #bcd018;
+    text-decoration: underline;
+}

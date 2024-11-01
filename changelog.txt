@@ -1,0 +1,45 @@
+1.0.0
+Stable release for advertisers.
+
+1.0.1
+Change module name to wp-profitshare-advertisers and fix products price for stores who are using woocommerce get_price method.
+
+1.0.2
+Add static currencies, for Romania the currency is RON and, for Bulgary, the currency is BGN.
+
+1.0.2.1
+Fix possible bug for product type voucher in category & product page.
+
+1.1.0
+Convert store currency to default profitshare server currency using https://exchangeratesapi.io/.
+Add version to all static files.
+
+1.1.1
+Update module functions to work with lower wordpress versions.
+
+1.1.2
+Fix products export, now will be exported only the visible products. - Special thanks to somnart.ro
+
+1.3
+Fix special price for products with variations
+
+1.3.1
+Bug fixing
+
+1.3.2
+small fixing products
+
+1.3.3
+Fix product orders without tva
+
+1.3.4
+Fix product with variations - Special thanks to myecoswitch.com
+
+1.3.5
+Fix product sale price
+
+1.3.6
+Fix product prices when price is not float bug
+
+1.3.7
+Update to latest Wordpress version and PHP 8.1.x compatibility
